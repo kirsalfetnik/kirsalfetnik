@@ -1,10 +1,10 @@
-# 👋 Hello there
+# 👋 Ciao
 
 <div align="justify">
-    My name is Kirill and I am a Full-Stack developer. I work on my own projects and constantly improve my skills as a programmer in order to create more value for other people.
+    My name is Kirill and I am a beginner Full-Stack developer. I work on my own projects and constantly improve my skills as a programmer in order to create more value for other people. At the moment I'm concentrating more on the frontend side, but I aim to become a professional full-stack developer.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<br/><a href="https://www.linkedin.com/in/kirsalfetnik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="kirill.salfetnik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
